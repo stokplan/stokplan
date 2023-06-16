@@ -12,6 +12,6 @@ Welcome to <a href='stokplan.com'>stokplan.com</a>, a website dedicated to servi
 
 <img className="responsive-image" width="438" alt="Screenshot 2023-06-12 at 9 59 01 AM" src="https://github.com/stokplan/stokplan/assets/136750417/74351495-5fe9-4e82-9596-36a37968e68f">
 
-To access the full features of our website, kindly register using your functional email as your ID and utilize the referral code provided, here: <b>P6R9</b>. Please note that this code is limited to the first 100 users, so act fast. We hope that this powerful tool will enhance your investing and trading strategies, ultimately boosting your overall success.
+To access the full features of our website, kindly register using your functional email as your ID and utilize the referral code provided, here: . Please note that this code is limited to the first 100 users, so act fast. We hope that this powerful tool will enhance your investing and trading strategies, ultimately boosting your overall success.
 
 Join us at <a href='stokplan.com'>stokplan.com</a> today and experience the future of investing firsthand!
